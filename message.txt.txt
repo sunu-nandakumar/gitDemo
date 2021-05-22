@@ -1,5 +1,4 @@
 hey there I sunu nandakumar. how are you today
-<<<<<<< HEAD
 git status 
 git remote -v
 git init 
@@ -7,11 +6,5 @@ git add . / git add < filename>
 git commit -m ""
 git push -u origin master
 git remote add origin link
-=======
 do whatever i want try and stop me.
->>>>>>> ed01cb5a83ff47840c765ff1cbf3bfde48fc0faa
-<<<<<<< HEAD
-trying the same thing here also
-=======
 trying to induce a conflict
->>>>>>> fc30ffaca7a22851b11ee7eecc25b793079c3e60
