@@ -8,3 +8,6 @@ git push -u origin master
 git remote add origin link
 do whatever i want try and stop me.
 trying to induce a conflict
+
+adding a new line 
+adding another new line
