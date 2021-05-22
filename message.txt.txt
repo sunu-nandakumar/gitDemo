@@ -10,3 +10,4 @@ git remote add origin link
 =======
 do whatever i want try and stop me.
 >>>>>>> ed01cb5a83ff47840c765ff1cbf3bfde48fc0faa
+trying the same thing here also
