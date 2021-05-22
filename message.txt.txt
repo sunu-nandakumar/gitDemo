@@ -1,1 +1,8 @@
 hey there I sunu nandakumar. how are you today
+git status 
+git remote -v
+git init 
+git add . / git add < filename>
+git commit -m ""
+git push -u origin master
+git remote add origin link
